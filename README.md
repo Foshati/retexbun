@@ -1,6 +1,7 @@
 # React Native, Expo, Tailwind CSS, Bun
 
 ## Installation:
+* cd retexbun
 ```line_numbers,js
 bun install
 ```
