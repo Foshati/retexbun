@@ -1,17 +1,20 @@
-# React Native , Expo ,TailwindCss , Bun
+# React Native, Expo, Tailwind CSS, Bun
 
-##Installation
+## Installation
+```bash
 bun install
+Usage
+Run the following command to start the project:
 
+bash
+Copy code
+bun run start
+Using Expo Go:
 
-## Usage
-1-bun run start
-
-2-Using Expo Go
-› Press s │ switch to development build
-› Press a │ open Android
-› Press i │ open iOS simulator
-› Press j │ open debugger
-› Press r │ reload app
-› Press m │ toggle menu
-› Press o │ open project code in your editor
+Press s to switch to the development build.
+Press a to open Android.
+Press i to open iOS simulator.
+Press j to open the debugger.
+Press r to reload the app.
+Press m to toggle the menu.
+Press o to open the project code in your editor.
