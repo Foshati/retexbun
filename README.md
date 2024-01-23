@@ -5,17 +5,12 @@
 bun install
 ```
 
-
-###Usage
+## Usage  
 ```line_numbers,js
 bun run start
 ```
 
-
-
-
-###Using Expo Go:
-### Unordered
+### Using Expo Go:
 * Press s │ switch to development build
 * Press a │ open Android
 * Press i │ open iOS simulator
