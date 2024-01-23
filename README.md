@@ -1,16 +1,16 @@
 # React Native, Expo, Tailwind CSS, Bun
 
-## Installation
+## Installation:
 ```line_numbers,js
 bun install
 ```
 
-## Usage  
+## Usage:  
 ```line_numbers,js
 bun run start
 ```
 
-### Using Expo Go:
+### Using Expo Go
 * Press s │ switch to development build
 * Press a │ open Android
 * Press i │ open iOS simulator
