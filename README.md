@@ -1,10 +1,13 @@
 # React Native , Expo ,TailwindCss , Bun
 
+##Installation
+bun install
+
+
 ## Usage
-list
-+first
-+bun run start
-+Using Expo Go
+1-bun run start
+
+2-Using Expo Go
 › Press s │ switch to development build
 › Press a │ open Android
 › Press i │ open iOS simulator
