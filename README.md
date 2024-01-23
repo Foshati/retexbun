@@ -1,6 +1,7 @@
 # React Native , Expo ,TailwindCss , Bun
 
 ## Usage
+list
 +first
 +bun run start
 +Using Expo Go
