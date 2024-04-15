@@ -1,4 +1,5 @@
 # React Native, Expo, Tailwind CSS, Bun
+### Basic template React Native with expo and ...
 
 ## Installation:
 * cd retexbun
